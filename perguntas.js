@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Mobs',
+    'Qual o mob que tem mais vida?',
+    'O mob que tem mais vida é o mob Warden'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'Biomas',
+    '?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
+    'Itens',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Mundos',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
