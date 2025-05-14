@@ -6,18 +6,19 @@ criaCartao(
 
 criaCartao(
     'Biomas',
-    '?',
-    'A capital da França é Paris'
+    'Qual o bioma em que vc encontra os cogumelos marrons?',
+    'O bioma que vc encontra os cogumelos marrons é o bioma de floresta de taiga'
 )
+
 
 criaCartao(
     'Itens',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Como se craft uma picareta de ferro ?',
+    'se utilisa 3 barras de ferro de dois gravetos de madeira'
 )
 
 criaCartao(
     'Mundos',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual o mundo que dá para matar o ender dragon?',
+    'É o mundo do fin(The End)'
 )
